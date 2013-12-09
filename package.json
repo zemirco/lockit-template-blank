@@ -1,0 +1,33 @@
+{
+  "name": "lockit-template-blank",
+  "version": "0.0.1",
+  "description": "blank email template for lockit",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeMirco/lockit-template-blank"
+  },
+  "keywords": [
+    "lockit",
+    "email",
+    "template"
+  ],
+  "author": {
+    "name": "Mirco Zeiss",
+    "email": "mirco.zeiss@gmail.com",
+    "twitter": "zeMirco"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "~0.8.4"
+  },
+  "devDependencies": {
+    "should": "~2.1.0",
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.7.2",
+    "grunt-mocha-test": "~0.8.1"
+  }
+}
