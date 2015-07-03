@@ -4,7 +4,7 @@ Email template for [lockit-sendmail](https://github.com/zeMirco/lockit-sendmail)
 
 ## Test
 
-`grunt`
+`make test`
 
 ## License
 
