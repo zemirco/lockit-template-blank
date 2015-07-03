@@ -1,6 +1,6 @@
 {
   "name": "lockit-template-blank",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "blank email template for lockit",
   "main": "index.js",
   "scripts": {
